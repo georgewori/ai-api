@@ -12,4 +12,4 @@ db.sqlite3
 # Ignore virtual environment folder
 
 venv/
-# this prevents .env and unecessary files from being uploaded
+# this prevents .env and unecessary files from being uploaded.env
