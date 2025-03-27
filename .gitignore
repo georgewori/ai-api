@@ -1,0 +1,14 @@
+# Ignore environments
+
+.env
+
+# Ignore compiled Python files
+
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment folder
+
+venv/
+# this prevents .env and unecessary files from being uploaded
